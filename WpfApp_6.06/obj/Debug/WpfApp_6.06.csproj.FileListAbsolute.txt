@@ -1,0 +1,14 @@
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\bin\Debug\WpfApp_6.06.exe.config
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\bin\Debug\WpfApp_6.06.exe
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\bin\Debug\WpfApp_6.06.pdb
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\WpfApp_6.06.csprojResolveAssemblyReference.cache
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\MainWindow.g.cs
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\App.g.cs
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\WpfApp_6.06_MarkupCompile.cache
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\WpfApp_6.06_MarkupCompile.lref
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\MainWindow.baml
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\WpfApp_6.06.g.resources
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\WpfApp_6._06.Properties.Resources.resources
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\WpfApp_6.06.csproj.GenerateResource.Cache
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\WpfApp_6.06.exe
+c:\users\дом\documents\visual studio 2017\Projects\WpfApp_6.06\WpfApp_6.06\obj\Debug\WpfApp_6.06.pdb
